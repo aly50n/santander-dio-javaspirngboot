@@ -53,4 +53,4 @@ classDiagram
   User "1" *-- "N" News
 ```
 
-## A API pode ser consumida através da seguinte URL: <a href="https://dio-java-bootcamp-prd.up.railway.app/swagger-ui/index.html">Deixe o seu cadastro lá :)</a>
+## A API pode ser consumida através do seguinte link: <a href="https://dio-java-bootcamp-prd.up.railway.app/swagger-ui/index.html">Deixe o seu cadastro lá :)</a>
