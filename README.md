@@ -54,3 +54,4 @@ classDiagram
 ```
 
 ## A API pode ser consumida através do seguinte link: <a href="https://dio-java-bootcamp-prd.up.railway.app/swagger-ui/index.html">Deixe o seu cadastro lá :)</a>
+Obs:(meus créditos gratuitos do Railway acabaram, então o BD e o backend estão fora do ar😟)
